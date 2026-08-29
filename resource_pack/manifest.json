@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Unskipping Sleep Cutscenes - Resource Pack",
+    "description": "Enhanced textures and UI overlay for realistic ceiling viewing during sleep.",
+    "uuid": "3f1ee625-edfd-4373-aa50-a49eebafd822",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f48182b7-1e87-433a-8a34-c8f2fee686ce",
+      "version": [1, 0, 0]
+    }
+  ]
+}
