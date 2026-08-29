@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "planks_oak": {
+      "textures": "textures/blocks/ceiling_wood"
+    },
+    "ceiling_wood": {
+      "textures": "textures/blocks/ceiling_wood"
+    }
+  }
+}
